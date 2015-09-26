@@ -57,7 +57,11 @@ GEM
       faraday (>= 0.7.4, < 0.10)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
+<<<<<<< HEAD
     httparty (0.13.6)
+=======
+    httparty (0.13.7)
+>>>>>>> f66ecf524fa860875316402d4ff369dee665f8c0
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     i18n (0.7.0)
